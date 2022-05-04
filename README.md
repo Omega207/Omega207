@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m @Omega207; also known as ΩΛΛΞGΔ!
-- 👨‍💻 I’m interested in coding, as well as making a video game someday.
+- 👨‍💻 I’m interested in coding and 3D modelling, as well as making a video game (or a fangame) someday.
 - 👾 I’m currently learning C++, and JavaScript. I also know a little bit of Python. I use Unity and Unreal for tutorial (or game) editors, and Blender for modeling.
 - 🖱 I’m looking to work on old projects that aren't maintained anymore, or new versions of which haven't been released in a few years.
 - 🔥 I hope to get along with everybody here!
