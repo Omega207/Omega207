@@ -3,8 +3,8 @@
 - 👾 I’m currently learning C++, and JavaScript. I also know a little bit of Python. I use Unity and Unreal for tutorial (or game) editors, and Blender for modeling.
 - 🖱 I’m looking to work on old projects that aren't maintained anymore, or new versions of which haven't been released in a few years.
 - 🔥 I hope to get along with everybody here!
-- 📝 NOTE: Some forked projects I have are for no real purpose, as I'm using them only to learn how to create better READMEs.
-- 🕹 I love Nintendo consoles!
+- 📝 NOTE: I do not currently own any social media accounts, such as Discord. Do not ask me to join because I cannot.
+- 🕹 I am a big fan of Nintendo consoles!
 <!---
 Omega207/Omega207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
