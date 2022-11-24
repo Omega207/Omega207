@@ -4,7 +4,7 @@
 - 🖱 I’m looking to work on old projects that aren't maintained anymore, or new versions of which haven't been released in a few years.
 - 🔥 Looking forward to getting along with everybody here!
 - ‼‼ NOTE: I do not currently own any social media accounts, such as Discord. Do not directly ask me to join because I cannot.
-- 🕹 I am a big fan of Nintendo consoles!
+- 🕹 I like the Nintendo 3DS & the Wii!
 <!---
 Omega207/Omega207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
