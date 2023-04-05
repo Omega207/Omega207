@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m @Omega207; also known as ΩΛΛΞGΔ!
 - 👨‍💻 I’m interested in coding and 3D modeling, as well as making a video game (or a fangame) someday.
 - 👾 I’m currently learning C++, and JavaScript. I also know a little bit of Python. I use Unity and Unreal for tutorial (or game) editors, and Blender for modeling.
-- 🖱 I’m looking to work on old projects that aren't maintained anymore, or new versions of which haven't been released in a few years.
+- 🖱 I’m looking to work on old projects that aren't maintained anymore, as well as creating/rereleasing some Sonic (fan)games.
 - 🔥 Looking forward to getting along with everybody here!
 - ‼ NOTE: I do not currently own any social media accounts, like Discord. Do not directly ask me to join because I cannot.
 - 🕹 I like the Nintendo 3DS & the Wii!
