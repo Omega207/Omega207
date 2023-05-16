@@ -3,16 +3,17 @@
 
 <br />I'm a to-be developer learning 3D modeling for some projects. I like Sonic the Hedgehog and his franchise, and as a result, I love the communties who love Sonic as well. <br />I also love open source things, so I like Linux as well (despite it not being my main OS: I use Windows instead).
 
-Here's the project I'm working on:
+## Projects:
 * N/A (Link)
 
-Here are some links to get around and find my stuff:
+## Links:
 <br />Name(link)
 <br />Name(link)
 
 Thanks and enjoy!
 
 --
+
 <!---
 Omega207/Omega207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
