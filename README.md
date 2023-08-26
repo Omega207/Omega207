@@ -3,8 +3,8 @@
 - 👾 I’m currently learning C++, JavaScript, and Python. I'm learning Blender for 3D modeling.
 - 🖱 I’m looking to work on old projects that aren't maintained anymore, as well as creating/rereleasing some Sonic (fan)games.
 - 🔥 Looking forward to getting along with everybody here!
-- PLEASE NOTE: I do not currently own any social media accounts, like Discord. Do not directly ask me to join because I cannot.
 - 🕹 I enjoy Nintendo and SEGA consoles and video games.
+### PLEASE NOTE: I don't own any social media accounts. I can not and will not join servers or groups of any kind.
 <!---
 Omega207/Omega207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
