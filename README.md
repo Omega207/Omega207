@@ -1,10 +1,9 @@
 - 👋 Hey there, I’m @Omega207; also known as ΩΛΛΞGΔ!
-- 👨‍💻 I’m interested in coding and 3D modeling, as well as making a video game (or a fangame) someday.
-- 👾 I’m currently learning C++, JavaScript, and Python. I'm learning Blender for 3D modeling.
+- 👨‍💻 My interests are mainly in video games, particularly in video game development.
+- 👾 For that reason, I'm currently learning Blender for 3D modeling. I am also a beginner spriter and coder.
 - 🖱 I’m looking to work on old projects that aren't maintained anymore, as well as creating/rereleasing some Sonic (fan)games.
-- 🔥 Looking forward to getting along with everybody here!
+- 😅 Not the best at being socialable.
 - 🕹 I enjoy Nintendo and SEGA consoles and video games.
-### PLEASE NOTE: I don't own any social media accounts. I can not and will not join servers or groups of any kind.
 <!---
 Omega207/Omega207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
