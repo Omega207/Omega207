@@ -1,18 +1,22 @@
-# 👋 Hey there, I’m @Omega207; also known as ΩΛΛΞGΔ!
-### ‼ NOTE: I do **not** currently own any social media accounts, like Discord. Do not directly ask me to join because I cannot.
+# 👋 Hey! I’m @Omega207; also known as ΩΛΛΞGΔ!
 
-<br />I'm a to-be developer learning 3D modeling for my projects. I like Sonic the Hedgehog and his franchise, and as a result, I enjoy the communties who love Sonic as well. <br />I also love open source things, so I like Linux as well (despite it not being my main OS: I use Windows instead). <br />I'm also looking to learn digital music creation and remixing. 
+<br />I'm a to-be developer learning 3D modeling for my projects. I like Sonic the Hedgehog and his franchise, and as a result, I enjoy the communties who love Sonic as well. <br />I also love open source things, so I use Linux as well (despite it not being my main OS: I use Windows instead).
+
+I wish to develop my first ever big project, a Sonic Riders fangame, sometime soon. That is my main reason behind learning Blender.
 
 ## Projects:
-* N/A (Link)
+* Mario Multiverse - Minor spriting
+* Coming soon... 
 
-## Links:
-<br />Name(link)
-<br />Name(link)
-
-Thanks and enjoy!
+## Learning:
+3D Modeling (with Blender)
+<br /> Game Development (with Godot, occasionally)
+<br /> Coding (soon enough, anyways)
+<br /> Digital Music(?)
 
 --
+
+Thanks for reading!
 
 <!---
 Omega207/Omega207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
