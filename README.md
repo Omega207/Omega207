@@ -1,8 +1,10 @@
 # 👋 Hey! I’m @Omega207; also known as ΩΛΛΞGΔ!
 
-<br />I'm a to-be developer learning 3D modeling for my projects. I like Sonic the Hedgehog and his franchise, and as a result, I enjoy the communties who love Sonic as well. <br />I also love open source things, so I use Linux as well (despite it not being my main OS: I use Windows instead).
+<br />I'm a tech enthusiast and to-be game (and potentially software) developer learning 3D modeling for my projects. I like Sonic the Hedgehog and the fangames made for the franchise. <br />In fact, it's because of those fangames that I've also been inspired to make one myself, though admittedly it's still in the planning stages at the moment. However, I've devoted my time to learning Blender so I can achieve this dream. 
 
-I wish to develop my first ever big project, a Sonic Riders fangame, sometime soon. That is my main reason behind learning Blender.
+<br />Anyways, I am a fan for open source things, Linux being one of my favorite open sourced products personally (despite it not being my main OS, unfortunately: I use Windows instead).
+
+
 
 ## Projects:
 * Mario Multiverse - Minor spriting
