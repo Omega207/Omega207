@@ -7,7 +7,7 @@
 
 
 ## Projects:
-* Mario Multiverse - Minor spriting
+* Mario Multiverse - Beta Tester
 * Coming soon... 
 
 ## Learning:
