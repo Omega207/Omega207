@@ -13,6 +13,7 @@
 3D Modeling (with Blender)
 <br /> Game Development (with Godot, occasionally)
 <br /> Coding (soon enough, anyways)
-<br /> Digital Music(?)
+<br /> Digital Music (?)
+<br /> Spriting (with Aseprite)
 
 --
